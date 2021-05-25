@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Jithin](https://jithin-zachariah.github.io/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 
+I am [Jithin](https://jithinzachariah.in/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jithin-zachariah&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
@@ -12,7 +12,7 @@ Blockchain evangelist with experience in DAPP development in Ethereum and enterp
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://jithin-zachariah.github.io/) 🌐 <br>
+  ⦿ Visit my [Website](https://jithinzachariah.in/) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/jithinzachariah/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/Jithin_Zac) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:jithin.zachariah96@gmail.com) 💌 <br>
