@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am [Jithin](https://jithinzachariah.in/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 
-
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jithin-zachariah&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 I mostly do backend development based on Microservices/Monolithic architecture using Javascript technologies like ExpressJS coupled with SQL/NoSQL databases like SQL Server, MongoDB etc. Experience in Azure/AWS cloud deployment, containerization using Docker, and orchestration using Kubernetes. Experience in CI/CD using tools like Azure DevOps, Jenkins.
