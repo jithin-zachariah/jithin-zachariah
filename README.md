@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am [Jithin](https://jithinzachariah.in/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+I am [Jithin](https://jithinzachariah.in/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 \
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> \
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jithin-zachariah&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
